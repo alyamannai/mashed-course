@@ -1,0 +1,8 @@
+.Liked{
+    fill: red;
+}
+
+.notLiked{
+    stroke: black;
+    fill:white;
+}
